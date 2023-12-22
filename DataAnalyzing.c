@@ -1,3 +1,4 @@
+# Study the characteristics of the AD & CN populations (age, sex, MMS, cdr_global)
 def characteristics_table(df, merged_df):
     """Creates a DataFrame that summarizes the characteristics of the DataFrame df"""
     diagnoses = np.unique(df.diagnosis.values)
