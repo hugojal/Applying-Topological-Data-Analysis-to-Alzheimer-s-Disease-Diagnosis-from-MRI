@@ -1,0 +1,1 @@
+This repository proposes three machine learning algorithms that succesfully classify the presence of heart disease based on brain morphologies. This model is trained on the oasis longitudnal dataset (https://www.kaggle.com/datasets/jboysen/mri-and-alzheimers). 
