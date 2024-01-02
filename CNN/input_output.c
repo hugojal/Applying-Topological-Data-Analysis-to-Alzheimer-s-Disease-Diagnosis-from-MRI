@@ -1,6 +1,0 @@
-dropout = nn.Dropout(0.5)
-input_tensor = torch.rand(10)
-output_tensor = dropout(input_tensor)
-print("Input \n", input_tensor)
-print()
-print("Output \n", output_tensor)
