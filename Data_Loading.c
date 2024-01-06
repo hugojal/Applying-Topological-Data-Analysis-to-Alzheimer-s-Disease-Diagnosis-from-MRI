@@ -1,4 +1,4 @@
-(If you are running this on google colab):
+(If you are running this on Google Collab):
 
 
 ! mkdir ~/.kaggle
