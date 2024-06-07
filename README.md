@@ -1,3 +1,3 @@
-👩‍🔬This repository proposes eleven machine learning algorithms that succesfully classify the presence of Alzheimer's Disease based on brain morphologies. This model is trained on the oasis longitudinal dataset (https://www.kaggle.com/datasets/jboysen/mri-and-alzheimers). The models achieve accuracies of 81-93%. The models were run on Google Collab. 
+👩‍🔬This repository proposes five machine learning algorithms that succesfully classify the presence of Alzheimer's Disease based on brain morphologies. This model is trained on the ADNI1:Complete 1Yr 1.5T dataset. The models were run on Google Collab. 
 
-🧑‍🔬The models published so far served as an exploration of the field and allowed us to familiarize ourselves with the bibliography available. We are now working under the supervision of Dr.Leming on the development of 3D-Topological Data Analysis (TDA) to analyze the ADNI 3Y 1.5T dataset.
+🧑‍🔬Under the supervision of Dr.Leming, we developed a Linear TDA model with Gudhi Library that obtained an accuracy score of 83.9% and a Stochastic TDA model with Persistence Images that obtained a score of 94.85%.
