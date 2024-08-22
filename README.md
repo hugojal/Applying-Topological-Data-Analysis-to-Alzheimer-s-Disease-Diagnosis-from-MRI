@@ -1,1 +1,0 @@
-[embed]https://github.com/hugojal/Applying-Topological-Data-Analysis-to-Alzheimer-s-Disease-Diagnosis-from-MRI/blob/main/Applying_Topological_Data_Analysis_to_Alzheimer_s_Disease_Diagnosis_from_MRI.pdf [/embed]
