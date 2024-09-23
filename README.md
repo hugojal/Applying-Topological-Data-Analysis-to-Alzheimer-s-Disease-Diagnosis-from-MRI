@@ -1,20 +1,15 @@
-# 🧠 Topological Data Analysis for Alzheimer's Diagnosis
+# :muscle: snRNA Transcriptomic Analysis to Assess the Role of AQP1 and AQP4 as Biomarkers for Duchenne Muscular Dystrophy
 
 ## 📊 Applying TDA to MRI Data
 
 [![TDA for Alzheimer's](https://img.shields.io/badge/TDA-Alzheimer's-blue?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAAAdgAAAHYBTnsmCAAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAAEUSURBVDiNY/wPBAxUBExUNQBsKM5AQkjI6T8DQzUDI2M7AyNjKQMjYwjIHEZGxv0MDAxbGP7/P8NgZLSeJCcwMjIy/GdkZLSAG8TApMzAxNzJwMjEzcDIxAk3kJGRgYGBgQEmzsLKV8/Ixi/AwMDAwMTEysDAzLmagYGhHdkARgYGBg9kAUZGFgcGRkZzBgYGBiYWdjYGRqZcBgYGbizhwM7AwMDAwMDAzMXAwMDAwMLAzJXLwMDACTOAkYGBYQFY4z8GoAYWDQYGBh6oFIoXGBn3wcQYGFjVGBiZPRkYGDgYmNh4GRgYVBgYGAShGjfBNDL+/8/wn4FhOQMjYyYDE+taBkbGLwz//19kMDJaS7U0AABuP1WBRS7xvQAAAABJRU5ErkJggg==)](Applying_Topological_Data_Analysis_to_Alzheimer_s_Disease_Diagnosis_from_MRI.pdf)
 
-### 🔬 Innovative Research on Alzheimer's Detection
-
-Explore our study on applying Topological Data Analysis (TDA) to Magnetic Resonance Imaging (MRI) for enhanced Alzheimer's disease diagnosis.
-
 #### 🚀 Key Features:
 
-- Topological Data Analysis
-- MRI data analysis
-- Potential for early Alzheimer's detection
-- Novel approach to medical imaging interpretation
-
+- snRNA Data Analysis
+- AQP1 and AQP4
+- Potential for new avenues of research
+- 
 #### 📘 Read the Full Paper
 
 <div align="center">
@@ -28,7 +23,7 @@ Explore our study on applying Topological Data Analysis (TDA) to Magnetic Resona
 <details>
 <summary>📊 Abstract</summary>
 
-Alzheimer's Disease (AD) represents a significant challenge in cognitive health, affecting millions of Americans. This study explores the application of Topological Data Analysis (TDA) in conjunction with various deep learning models for AD diagnosis using MRI data from the Alzheimer's Disease Neuroimaging Initiative (ADNI). We implemented and compared five models: a Random Forest Classifier, a Long Short-Term Memory (LSTM) network, a Linear TDA model using the Gudhi library, a Lasso regression model, and a Stochastic TDA model with persistence image. Our results demonstrate the potential of TDA in enhancing AD diagnosis accuracy. The study highlights the effectiveness of persistence images in improving model performance and the value of combining TDA with traditional machine learning approaches for more accurate and interpretable AD diagnosis.
+Duchenne muscular dystrophy (DMD) is a severe Xlinked genetic disorder affecting approximately 1 in 3,500 male births. Characterized by progressive muscle weakening and reduced life expectancy, DMD presents a significant challenge in identifying reliable genetic expression biomarkers due to its wide phenotypic variability. The potential roles of aquaporin 1 (AQP1) and aquaporin 4 (AQP4) as disease markers have been debated for over two decades. This study employs a novel single-nucleus RNA (snRNA) transcriptomic analysis to evaluate the expression of AQP1 and AQP4 in DMD muscle tissue. The results demonstrate a significant upregulation of AQP1 in DMD samples compared to controls, while AQP4 expression was elevated but did not reach statistical significance. These findings contribute to the understanding of aquaporin involvement in DMD pathophysiology and highlight the potential of AQP1 as a biomarker for the disease. Furthermore, this research addresses a critical gap in knowledge regarding the role of aquaporins in DMD and opens new avenues for future investigations into disease mechanisms and potential therapeutic targets.
 
 </details>
 
@@ -37,9 +32,6 @@ Alzheimer's Disease (AD) represents a significant challenge in cognitive health,
 ### 👥 Contributors
 
 - [Hugo Jal](https://github.com/yourusername)
-- [Ravi Shah](https://github.com/collaborator1)
-- [Parth Parik](https://github.com/collaborator2)
-
 ---
 
 <div align="center">
